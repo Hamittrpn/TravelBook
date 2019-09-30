@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95179359234251DD0064F656 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95179358234251DD0064F656 /* ListViewController.swift */; };
 		952FD145233E58B600915F60 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FD144233E58B600915F60 /* AppDelegate.swift */; };
 		952FD147233E58B600915F60 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FD146233E58B600915F60 /* ViewController.swift */; };
 		952FD14A233E58B600915F60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 952FD148233E58B600915F60 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		95179358234251DD0064F656 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		952FD141233E58B600915F60 /* TravelBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		952FD144233E58B600915F60 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		952FD146233E58B600915F60 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				952FD144233E58B600915F60 /* AppDelegate.swift */,
 				952FD146233E58B600915F60 /* ViewController.swift */,
+				95179358234251DD0064F656 /* ListViewController.swift */,
 				952FD148233E58B600915F60 /* Main.storyboard */,
 				952FD14E233E58B700915F60 /* Assets.xcassets */,
 				952FD150233E58B700915F60 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				952FD14D233E58B600915F60 /* TravelBook.xcdatamodeld in Sources */,
 				952FD147233E58B600915F60 /* ViewController.swift in Sources */,
+				95179359234251DD0064F656 /* ListViewController.swift in Sources */,
 				952FD145233E58B600915F60 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
